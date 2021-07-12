@@ -9,7 +9,7 @@
 ![BEM](https://img.shields.io/badge/-BEM-df6e08?style=for-the-badge&logo=BEM&logoColor=1b1b1b)
 ![GitHub](https://img.shields.io/badge/-GitHub-df6e08?style=for-the-badge&logo=GitHub&logoColor=000000)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-df6e08?style=for-the-badge&logo=Wordpress&logoColor=448fff)
-![Blender](https://img.shields.io/badge/-Wordpress-df6e08?style=for-the-badge&logo=Wordpress&logoColor=fcbf28)
+![Blender](https://img.shields.io/badge/-Blender-df6e08?style=for-the-badge&logo=Blender&logoColor=fcbf28)
 
 
 
