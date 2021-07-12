@@ -2,6 +2,6 @@
 
 Я Джуниор Веб-разработчик. 
 
-Мои навыки:![Html5](https://img.shields.io/badge/-Html5-#df6e08)
+Мои навыки:![Html5](https://img.shields.io/badge/-Html5-df6e08)
 
 Follow me
