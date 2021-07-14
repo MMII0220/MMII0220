@@ -14,4 +14,6 @@
 ![Blender](https://img.shields.io/badge/-Blender-df6e08?style=for-the-badge&logo=Blender&logoColor=fcbf28)
 </div>
 
-
+<p align="center">
+  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
+</p>
