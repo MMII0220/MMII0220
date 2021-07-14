@@ -17,3 +17,9 @@
 <p align="center">
   <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
 </p>
+![A cute kitten](http://placekitten.com/200/300?style=centerme)
+img[src$="centerme"] {
+  display:block;
+  margin: 0 auto;
+}
+Таким образо
