@@ -1,9 +1,8 @@
 ![Header](https://github.com/MMII0220/Summary/blob/main/assets/name.jpg)
 
-Меня зовут Абдуллоев Мухаммаджон. Мне 19 лет. Я из Таджикистана город Душанбе. Я Джуниор Веб-разработчик. Знаю 3 языка:(Русский)(Английский)(Таджикский). 
+## Меня зовут Абдуллоев Мухаммаджон. Мне 19 лет. Я из Таджикистана город Душанбе. Я Джуниор Веб-разработчик. Знаю 3 языка:(Русский)(Английский)(Таджикский). 
 
-Мои навыки:
-<p align="center">
+ ### Мои навыки:
 ![Html5](https://img.shields.io/badge/-Html5-df6e08?style=for-the-badge&logo=Html5&logoColor=efecec)
 ![CSS3](https://img.shields.io/badge/-CSS3-df6e08?style=for-the-badge&logo=CSS3&logoColor=606de0)
 ![Javascript](https://img.shields.io/badge/-Javascript-df6e08?style=for-the-badge&logo=Javascript&logoColor=f4e216)
@@ -12,14 +11,3 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-df6e08?style=for-the-badge&logo=GitHub&logoColor=000000)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-df6e08?style=for-the-badge&logo=Wordpress&logoColor=448fff)
 ![Blender](https://img.shields.io/badge/-Blender-df6e08?style=for-the-badge&logo=Blender&logoColor=fcbf28)
-</p>
-
-<p align="center">
-  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
-</p>
-![A cute kitten](http://placekitten.com/200/300?style=centerme)
-img[src$="centerme"] {
-  display:block;
-  margin: 0 auto;
-}
-Таким образо
