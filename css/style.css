@@ -1,0 +1,118 @@
+/*
+font-family: 'Oswald', sans-serif;
+font-family: 'Yaldevi', sans-serif;
+*/
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.header {
+  background-color: rgb(176, 235, 230);
+  height: 100vh;
+}
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.content {
+  position: relative;
+  top: 300px;
+}
+.header__aboutMe {
+  display: flex;
+  align-items: center;
+}
+.about__sub {
+  font-family: "Yaldevi", sans-serif;
+}
+.about__sup {
+  font-size: 22px;
+  font-family: "Oswald", sans-serif;
+  width: 150px;
+}
+.about__sub {
+  margin-left: 10px;
+  font-family: "Yaldevi", sans-serif;
+  font-size: 18px;
+}
+.header__sup {
+  font-family: "Oswald", sans-serif;
+  font-size: 22px;
+}
+.asd {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  width: 100%;
+  height: 257px;
+}
+.icons {
+  display: flex;
+  margin-top: 30px;
+}
+.skill {
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-bottom: 36px;
+  margin-top: 5px;
+}
+.skill img {
+  margin-bottom: -4px;
+}
+.tr img {
+  z-index: 99;
+}
+.skill .tr {
+  transition: 0.3s linear all;
+}
+.skill .tr:hover {
+  background: linear-gradient(#7c7931, #dbd958);
+  box-shadow: 0 0 1px 0;
+  opacity: 1;
+  z-index: 100;
+}
+.skill:hover img {
+  opacity: 0.7;
+  transition: 0.3s linear all;
+}
+.language {
+  display: flex;
+  align-items: center;
+}
+.language__sup {
+  font-family: "Oswald", sans-serif;
+  font-size: 22px;
+}
+.language__sub {
+  margin-left: 10px;
+  font-family: "Yaldevi", sans-serif;
+  font-size: 18px;
+}
+.projects__sup {
+  margin-top: 20px;
+  font-family: "Oswald", sans-serif;
+  font-size: 22px;
+  font-weight: bold;
+}
+.project__sub {
+  margin-top: 5px;
+  font-family: "Yaldevi", sans-serif;
+  font-size: 18px;
+}
+.project__link {
+  text-decoration: none;
+  color: #1b1b1b;
+  font-weight: bold;
+  transition: 0.2s linear color;
+}
+.project__link:hover {
+  color: rgb(253, 164, 31);
+  font-weight: bold;
+}
+li {
+  margin-top: 10px;
+  margin-left: 50px;
+}
