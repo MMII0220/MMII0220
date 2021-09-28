@@ -18,10 +18,10 @@
 
 ### Мои проекты:
 
-Адаптивный сайт "GoGo" или "Mogo": ![GoGo](https://mmii0220.github.io/GoGo/)
+Адаптивный сайт "GoGo" или "Mogo": <a href="https://mmii0220.github.io/GoGo/">GoGo</a> ![GoGo](https://mmii0220.github.io/GoGo/)
 
 Много-странично-адаптивный сайт "Deliver":
 
-https://mmii0220.github.io/deliver/
+<a href="https://mmii0220.github.io/deliver/">Deliver</a> ![Deliver](https://mmii0220.github.io/deliver/)
 
-https://mmii0220.github.io/deliver2/
+<a href="https://mmii0220.github.io/deliver2/">Deliver2</a> ![Deliver2](https://mmii0220.github.io/deliver2/)
