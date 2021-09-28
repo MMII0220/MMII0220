@@ -1,6 +1,6 @@
 ![Header](https://github.com/MMII0220/Summary/blob/main/assets/name.jpg)
 oaKoz0Rmbj4.jpg
-![Header](<img src="oaKoz0Rmbj4.jpg" />)
+![Header](<img src="https://github.com/MMII0220/Summary/blob/main/assets/oaKoz0Rmbj4.jpg" />)
 
 ## Меня зовут Абдуллоев Мухаммад. Мне 19 лет. Я из Таджикистана город Душанбе. Я хочу работать на Джуниор Веб-разработчика. Готов на выполнения любых задачи связанных с версткой. Могу находить решение проблем самостоятельно.
 
