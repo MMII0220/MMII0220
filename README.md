@@ -18,7 +18,7 @@
 
 ### Мои проекты:
 
-Адаптивный сайт "GoGo" или "Mogo": https://mmii0220.github.io/GoGo/
+Адаптивный сайт "GoGo" или "Mogo": <a>https://mmii0220.github.io/GoGo/</a>
 
 Много-странично-адаптивный сайт "Deliver":
 
