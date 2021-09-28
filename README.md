@@ -20,6 +20,7 @@
 Адаптивный сайт "Vogo": https://mmii0220.github.io/GoGo/
 
 Много-странично-адаптивный сайт "Deliver":
+
 https://mmii0220.github.io/deliver/
 
 https://mmii0220.github.io/deliver2/
