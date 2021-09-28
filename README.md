@@ -13,6 +13,7 @@
 ![SCSS](https://img.shields.io/badge/-SCSS-df6e08?style=for-the-badge&logo=SCSS&logoColor=f41d6f)
 ![BEM](https://img.shields.io/badge/-BEM-df6e08?style=for-the-badge&logo=BEM&logoColor=1b1b1b)
 ![Git](https://img.shields.io/badge/-Git-df6e08?style=for-the-badge&logo=Git&logoColor=000000)
+![GitHub](https://img.shields.io/badge/-GitHub-df6e08?style=for-the-badge&logo=GitHub&logoColor=000000)
 ![Blender](https://img.shields.io/badge/-Blender-df6e08?style=for-the-badge&logo=Blender&logoColor=fcbf28)
 
 ### Мои проекты:
