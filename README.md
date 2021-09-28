@@ -22,6 +22,6 @@
 
 Много-странично-адаптивный сайт "Deliver":
 
-<a href="https://mmii0220.github.io/deliver/">Deliver</a> ![Deliver](https://mmii0220.github.io/deliver/)
+<a href="https://mmii0220.github.io/deliver/">Deliver</a>
 
-<a href="https://mmii0220.github.io/deliver2/">Deliver2</a> ![Deliver2](https://mmii0220.github.io/deliver2/)
+<a href="https://mmii0220.github.io/deliver2/">Deliver2</a>
