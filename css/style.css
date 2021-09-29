@@ -140,6 +140,21 @@ ul.dash > li:before {
 .experience__tasks {
   margin-top: 5px;
 }
+.project__space {
+  margin-left: 40px;
+}
+.project__space li {
+  margin-bottom: 5px;
+}
+.my__project {
+  text-decoration: none;
+  color: #1b1b1b;
+  padding-left: 10px;
+  transition: 0.2s linear color;
+}
+.my__project:hover {
+  color: rgb(240, 172, 94);
+}
 .skills {
   display: flex;
 }
