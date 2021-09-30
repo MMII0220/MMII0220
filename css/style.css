@@ -154,9 +154,11 @@ ul.dash > li:before {
 }
 .experience__tasks {
   margin-top: 5px;
+  margin-bottom: 5px;
 }
 .project__space {
   margin-left: 40px;
+  margin-top: 5px;
 }
 .project__space li {
   margin-bottom: 5px;
