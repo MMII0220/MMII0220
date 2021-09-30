@@ -10,6 +10,7 @@ font-family: 'Yaldevi', sans-serif;
 body {
   font-family: "Yaldevi", sans-serif;
   font-size: 20px;
+  width: 100%;
 }
 .container {
   margin: 0 auto;
@@ -36,6 +37,7 @@ body {
 }
 .about__me {
   display: flex;
+  max-width: 100%;
 }
 .about__info {
   margin-left: 60px;
@@ -57,6 +59,9 @@ body {
 .about__tel:hover {
   color: rgb(146, 129, 129);
 }
+.date {
+  display: none;
+}
 .about__email {
   margin-top: 5px;
   cursor: pointer;
@@ -77,8 +82,12 @@ body {
   justify-content: space-between;
 }
 .wage {
+  display: flex;
   font-weight: bold;
   font-size: 35px;
+}
+.wage__text {
+  display: none;
 }
 .position__supWage {
   color: #1b1b1b;
@@ -107,6 +116,12 @@ body {
   display: flex;
 }
 .experience__date {
+  font-size: 20px;
+  color: rgba(0, 0, 0, 0.534);
+  margin-right: 40px;
+}
+.experience__wage {
+  display: none;
   font-size: 20px;
   color: rgba(0, 0, 0, 0.534);
   margin-right: 40px;
@@ -161,94 +176,152 @@ ul.dash > li:before {
 .skills img {
   margin-right: 10px;
 }
-/*
-<div class="language">
-              <h2 class="language__sup sup">Языки мира:</h2>
-              <p class="language__sub sub">(Русский)(Английский)(Таджикский)</p>
-            </div>
-            <div class="projects">
-              <div class="projects__sup sup">Мои проекты:</div>
-              <div class="project__sub sub">
-                Адаптивный сайт "GoGo" или "Mogo":
-                <a
-                  href="https://mmii0220.github.io/GoGo/"
-                  class="project__link"
-                  target="_blank"
-                  title="lucium"
-                  >GoGo</a
-                >
-              </div>
-              <div class="project__sub sub">
-                Много-странично-адаптивный сайт "Deliver":
-                <ul>
-                  <li>
-                    <a
-                      href="https://mmii0220.github.io/deliver/"
-                      class="project__link"
-                      target="_blank"
-                      title="deliver"
-                      >Deliver</a
-                    >
-                  </li>
-                  <li>
-                    <a
-                      href="https://mmii0220.github.io/deliver2/"
-                      class="project__link"
-                      target="_blank"
-                      title="deliver"
-                      >Deliver</a
-                    >
-                  </li>
-                </ul>
-              </div>
-            </div>*/
-/*
-<div class="icons">
-              <h2 class="header__sup sup">Мои навыки:</h2>
-              <div class="skill">
-                <div class="tr">
-                  <img src="./images/-Html5-df6e08.svg" alt="HTML5" />
-                </div>
-              </div>
-              <div class="skill">
-                <div class="tr">
-                  <img src="./images/-CSS3-df6e08.svg" alt="CSS3" />
-                </div>
-              </div>
-              <div class="skill">
-                <div class="tr">
-                  <img src="./images/-Javascript-df6e08.svg" alt="javascript" />
-                </div>
-              </div>
-              <div class="skill">
-                <div class="tr">
-                  <img src="./images/-SASS-df6e08 (1).svg" alt="sass" />
-                </div>
-              </div>
-              <div class="skill">
-                <div class="tr">
-                  <img src="./images/-SCSS-df6e08.svg" alt="scss" />
-                </div>
-              </div>
-              <div class="skill">
-                <div class="tr">
-                  <img src="./images/-BEM-df6e08.svg" alt="bem" />
-                </div>
-              </div>
-              <div class="skill">
-                <div class="tr">
-                  <img src="./images/-Git-df6e08.svg" alt="git" />
-                </div>
-              </div>
-              <div class="skill">
-                <div class="tr">
-                  <img src="./images/-GitHub-df6e08.svg" alt="github" />
-                </div>
-              </div>
-              <div class="skill">
-                <div class="tr">
-                  <img src="./images/-Blender-df6e08.svg" alt="blender" />
-                </div>
-              </div>
-            </div>
-            */
+
+@media (max-width: 1190px) {
+  .section {
+    padding-left: 10px;
+  }
+}
+@media (max-width: 835px) {
+  .skills {
+    display: flex;
+    flex-direction: column;
+  }
+  .experience__info {
+    margin-bottom: 25px;
+  }
+  .about__sub {
+    margin-bottom: 8px;
+  }
+  .about__sup {
+    font-size: 40px;
+  }
+  .position__supWage {
+    font-size: 34px;
+  }
+  .sup {
+    font-size: 26px;
+  }
+  .sub {
+    font-size: 19px;
+  }
+  .wage {
+    font-size: 32px;
+  }
+  .experience__position {
+    font-size: 26px;
+  }
+  .experience__tasks {
+    margin-top: 5px;
+    font-size: 19px;
+  }
+  .experience__company {
+    font-size: 19px;
+  }
+}
+@media (max-width: 700px) {
+  .experience__wage {
+    display: block;
+  }
+  .icon__hh img {
+    width: 122px;
+    height: 75px;
+  }
+  .sub {
+    font-size: 16px;
+  }
+  .wage {
+    font-size: 29px;
+  }
+  .position__supWage {
+    font-size: 33px;
+  }
+  .sup {
+    font-size: 24px;
+  }
+  .experience__position {
+    font-size: 24px;
+  }
+  .experience__tasks {
+    font-size: 17px;
+  }
+  .experience__date {
+    font-size: 18px;
+  }
+}
+@media (max-width: 640px) {
+  .experience__wage {
+    display: block;
+  }
+  .icon__sup {
+    padding-left: 5px;
+  }
+  .about__me {
+    display: block;
+    max-width: 100%;
+  }
+  .about__email {
+    margin-top: 11px;
+    cursor: pointer;
+  }
+  .place {
+    margin-top: 34px;
+    line-height: 1.5;
+  }
+  .position {
+    display: block;
+  }
+  .wage {
+    margin-top: 25px;
+    align-items: center;
+  }
+  .wage__text {
+    display: block;
+  }
+  .photo {
+    text-align: center;
+  }
+  .experience__date {
+    margin-right: 13px;
+  }
+}
+@media (max-width: 400px) {
+  .experience__wage {
+    display: block;
+  }
+  .icon__hh img {
+    width: 116px;
+    height: 69px;
+  }
+  .position__supWage {
+    font-size: 25px;
+  }
+  .sup {
+    font-size: 20px;
+  }
+  .sub {
+    font-size: 15px;
+  }
+  .wage {
+    font-size: 27px;
+  }
+  .experience__position {
+    font-size: 20px;
+  }
+  .experience__info {
+    display: block;
+  }
+  .experience__company {
+    font-size: 16px;
+    margin-top: 5px;
+  }
+  .experience__texts {
+    margin-top: 5px;
+  }
+  .experience__tasks {
+    margin-bottom: 5px;
+  }
+  .project__space {
+    font-size: 18px;
+  }
+}
