@@ -1,4 +1,3 @@
-![Header](https://github.com/MMII0220/Summary/blob/main/assets/name.jpg)
 
 ## Абдуллоев Мухаммад, 19 лет. Таджикистана город Душанбе. 
 
