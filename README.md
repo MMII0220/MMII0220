@@ -15,7 +15,18 @@
 ### Мои навыки:
 
 <div>
-    <img src="./images/new/html_original_wordmark_logo_icon_146478.svg" title="Java" alt="Java" width="40" height="40"/>
+    <img src="./images/new/html_original_wordmark_logo_icon_146478.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
+    <img src="./images/new/css_original_wordmark_logo_icon_146576.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
+    <img src="./images/new/bootstrap_plain_logo_icon_146619.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>
+    <img src="./images/new/javascript_original_logo_icon_146455.svg" title="Javascript" alt="Javascript" width="40" height="40"/>
+    <img src="./images/new/react_original_wordmark_logo_icon_146375.svg" title="React" alt="React" width="40" height="40"/>
+    <img src="./images/new/sass_original_logo_icon_146350.svg" title="SASS" alt="SASS" width="40" height="40"/>
+    <img src="./images/new/file_type_scss_icon_130177.svg" title="SCSS" alt="SCSS" width="40" height="40"/>
+    <img src="./images/new/typescript_original_logo_icon_146317.svg" title="Typescript" alt="Typescript" width="40" height="40"/>
+    <img src="./images/new/file_type_git_icon_130581.svg" title="Git" alt="Git" width="40" height="40"/>
+    <img src="./images/new/gitlab_original_logo_icon_146503.svgg" title="GitHub" alt="GitHub" width="40" height="40"/>
+    <img src="./images/new/gitlab_original_logo_icon_146503.svg" title="GitLab" alt="GitLab" width="40" height="40"/>
+    <img src="./images/new/c_original_logo_icon_146611.svg" title="C" alt="C" width="40" height="40"/>
 </div>
 
 
