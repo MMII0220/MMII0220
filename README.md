@@ -1,6 +1,6 @@
 
 
-## <h1 align="center">Абдуллоев Мухаммад, 20 лет.:man_technologist:</h1>
+## <h1 align="center">Мага, 20 лет.:man_technologist:</h1>
 
 - :telescope: Front-end разработчик.
 
