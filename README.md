@@ -29,6 +29,7 @@
     <img src="./images/new/gitlab_original_logo_icon_146503.svg" title="GitLab" alt="GitLab" width="40" height="40"/>
 </div>
 <br/>
+
 [![codewars](https://www.codewars.com/users/Proovide/badges/large)](https://www.codewars.com/users/Proovide)
 
 <!-- (https://git.io/typing-svg) -->
