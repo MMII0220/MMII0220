@@ -25,7 +25,7 @@
     <img src="./images/new/sass_original_logo_icon_146350.svg" title="SASS" alt="SASS" width="40" height="40"/>
     <img src="./images/new/file_type_scss_icon_130177.svg" title="SCSS" alt="SCSS" width="40" height="40"/>
     <img src="./images/new/file_type_git_icon_130581.svg" title="Git" alt="Git" width="40" height="40"/>
-    <img src="./images/new/gitlab_original_logo_icon_146503.svgg" title="GitHub" alt="GitHub" width="40" height="40"/>
+    <img src="./images/new/github_git_hub_logo_icon_132878.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
     <img src="./images/new/gitlab_original_logo_icon_146503.svg" title="GitLab" alt="GitLab" width="40" height="40"/>
 </div>
 
