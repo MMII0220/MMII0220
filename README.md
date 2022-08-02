@@ -54,7 +54,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MMII0220&theme=algolia)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MMII0220&theme=algolia) -->
 
-![](https://github.com/MMII0220/snk//images/new/github-user-contribution.svg)
+![](https://github.com/MMII0220/snk/images/new/github-user-contribution.svg)
 <!-- ![GitHub Snake Light](./images/new/github-user-contribution.svg#gh-light-mode-only) -->
 <div href="https://platane.github.io/snk">
   <img height="300px" src="./images/new/github-user-contribution.svg" ></img>
