@@ -8,6 +8,10 @@
 
 - :mailbox:Лучшая связь: [![Telegram Badge](https://img.shields.io/badge/-@abum20209-blue?style=flat&logo=telegram&logoColor=white)](https://tele.click/@abum20209)
 
+<a href="https://platane.github.io/snk">
+  <img height="300px" src="./images/new/github-user-contribution.svg" ></img>
+</a>
+
 <!-- 
 ## Языки мира:(Русский)(Английский)(Таджикский). -->
 
@@ -44,10 +48,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MMII0220&theme=solarized_dark)
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-<a href="https://platane.github.io/snk">
-  <img height="300px" src="./images/new/github-user-contribution.svg" ></img>
-</a>
+
 
 ### :scroll: Languages :
 
