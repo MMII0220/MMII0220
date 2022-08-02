@@ -11,7 +11,7 @@
 <!-- 
 ## Языки мира:(Русский)(Английский)(Таджикский). -->
 
-### Мои навыки: 
+### :sunglasses: Мои навыки: 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Веб-разработчика)
 
 <div>
