@@ -54,7 +54,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MMII0220&theme=algolia)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MMII0220&theme=algolia) -->
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=algolia)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MMII0220&theme=vue)
 
 ### :scroll: Languages :
 
