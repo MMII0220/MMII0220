@@ -33,10 +33,14 @@
 
 [![codewars](https://www.codewars.com/users/Proovide/badges/large)](https://www.codewars.com/users/Proovide)
 
+<br/><br/>
+
 ### :briefcase: Мои проекты:
 
 Адаптивный сайт "GoGo" или "Mogo": <a href="https://mmii0220.github.io/GoGo/">GoGo</a><br/>
 Адаптивный сайт "Booco" или "Booco": <a href="https://mmii0220.github.io/orderKWORK/">OrderKWORK</a>
+
+<br/><br/>
 
 ### :satisfied: Статистика :
 
@@ -45,9 +49,13 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MMII0220&theme=solarized_dark)
 
+<br/><br/>
+
 ### :scroll: Languages :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MMII0220&theme=algolia)
+
+<br/><br/>
 
 ### :muscle: Активность:
 
