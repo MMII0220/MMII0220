@@ -56,13 +56,9 @@
 
 ![](https://github.com/MMII0220/snk/raw/output/github-contribution-grid-snake.svg)
 ![GitHub Snake Light](./images/new/github-user-contribution.svg#gh-light-mode-only)
-<a href="https://platane.github.io/snk">
+<div href="https://platane.github.io/snk">
   <img height="300px" src="./images/new/github-user-contribution.svg" ></img>
-</a>
-<div>
-    <img src="./images/new/github-user-contribution.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40" />
 </div>
-
 
 ### :scroll: Languages :
 
