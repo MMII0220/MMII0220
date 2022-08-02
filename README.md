@@ -49,7 +49,7 @@
 
 ### :satisfied: Статистика :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MMII0220&theme=algolia) ![](https://github-readme-stats.vercel.app/api?username=MMII0220&show_icons=true&theme=algolia)
+![](https://github-readme-streak-stats.herokuapp.com/?user=MMII0220&theme=algolia)![](https://github-readme-stats.vercel.app/api?username=MMII0220&show_icons=true&theme=algolia)
 
 ### :scroll: Languages :
 
