@@ -7,7 +7,7 @@
 
 - :zap: В свое свободное время, читаю манги.
 
-- :mailbox:Лучшая связь: [![Mail Badge](https://img.shields.io/badge/-abum202@mail.ru-blue?style=flat&logo=mail&logoColor=white)](your-mail-url) [![Linkedin Badge](https://img.shields.io/badge/-abum202@mail.ru-blue?style=flat&logo=mail&logoColor=white)](your-mail-url)
+- :mailbox:Лучшая связь: [![Mail Badge](https://img.shields.io/badge/-abum202@mail.ru-blue?style=flat&logo=mail&logoColor=white)](your-mail-url) [![Telegram Badge](https://img.shields.io/badge/-@abum20209-red?style=flat&logo=telegram&logoColor=white)](your-telegram-url)
 
 <!-- 
 ## Языки мира:(Русский)(Английский)(Таджикский). -->
