@@ -53,7 +53,7 @@
 
 ### :scroll: Languages :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MMII0220&theme=react-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MMII0220&theme=dark)
 
 ### :muscle: Активность:
 [![codewars](https://www.codewars.com/users/Proovide/badges/large)](https://www.codewars.com/users/Proovide)
