@@ -51,11 +51,12 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MMII0220)
 
+### :scroll: Languages :
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MMII0220&theme=react-dark)
+
 ### :muscle: Активность:
 [![codewars](https://www.codewars.com/users/Proovide/badges/large)](https://www.codewars.com/users/Proovide)
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=MMII0220&theme=react-dark)]
 
-### :scroll: Languages :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MMII0220)
