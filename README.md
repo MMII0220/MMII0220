@@ -1,5 +1,5 @@
 
-## Абдуллоев Мухаммад, 20 лет.
+## Абдуллоев Мухаммад, 20 лет.:man_technologist:
 
 - :telescope: Front-end разработчик.
 
@@ -49,3 +49,5 @@
 ### :fire: My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
