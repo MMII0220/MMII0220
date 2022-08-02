@@ -14,7 +14,7 @@
 ## Языки мира:(Русский)(Английский)(Таджикский). -->
 
 ### Мои навыки: 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Веб-разработчика)]
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Веб-разработчика)
 
 <div>
     <img src="./images/new/html_original_wordmark_logo_icon_146478.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
