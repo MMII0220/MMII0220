@@ -49,11 +49,11 @@
 
 ### :satisfied: Статистика :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MMII0220&theme=dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MMII0220&theme=rogue)
 
 ### :scroll: Languages :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MMII0220&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MMII0220&theme=rogue)
 
 ### :muscle: Активность:
 [![codewars](https://www.codewars.com/users/Proovide/badges/large)](https://www.codewars.com/users/Proovide)
