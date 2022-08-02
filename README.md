@@ -1,5 +1,6 @@
 
-## Абдуллоев Мухаммад, 20 лет.:man_technologist:
+
+## <h1 style="text-align:center;">Абдуллоев Мухаммад, 20 лет.:man_technologist:</h1>
 
 - :telescope: Front-end разработчик.
 
