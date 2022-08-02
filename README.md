@@ -29,6 +29,8 @@
     <img src="./images/new/gitlab_original_logo_icon_146503.svg" title="GitLab" alt="GitLab" width="40" height="40"/>
 </div>
 
+[![codewars](https://www.codewars.com/users/Proovide/badges/large)](https://www.codewars.com/users/Proovide)
+
 <!-- (https://git.io/typing-svg) -->
 
 <!-- 
@@ -61,7 +63,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MMII0220&theme=algolia)
 
 ### :muscle: Активность:
-[![codewars](https://www.codewars.com/users/Proovide/badges/large)](https://www.codewars.com/users/Proovide)
+
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=MMII0220&theme=react-dark)]
 
