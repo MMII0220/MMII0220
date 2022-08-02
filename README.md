@@ -51,6 +51,9 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MMII0220&theme=algolia)![](https://github-readme-stats.vercel.app/api?username=MMII0220&show_icons=true&theme=algolia)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MMII0220&theme=algolia)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MMII0220&theme=algolia)
+
 ### :scroll: Languages :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MMII0220&theme=algolia)
