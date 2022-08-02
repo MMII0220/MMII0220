@@ -30,7 +30,9 @@
     <img src="./images/new/gitlab_original_logo_icon_146503.svg" title="GitLab" alt="GitLab" width="40" height="40"/>
 </div>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Веб+-+разработчик)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Веб+-+разработчик)]
+
+<!-- (https://git.io/typing-svg) -->
 
 <!-- 
 ![Html5](https://img.shields.io/badge/-Html5-df6e08?style=for-the-badge&logo=Html5&logoColor=efecec)
