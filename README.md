@@ -45,3 +45,7 @@
 
 Адаптивный сайт "GoGo" или "Mogo": <a href="https://mmii0220.github.io/GoGo/">GoGo</a><br/>
 Адаптивный сайт "Booco" или "Booco": <a href="https://mmii0220.github.io/orderKWORK/">OrderKWORK</a>
+
+### :fire: My Stats :
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
