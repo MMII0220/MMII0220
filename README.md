@@ -12,9 +12,6 @@
   <img height="300px" src="./images/new/github-user-contribution.svg" ></img>
 </a>
 
-<!-- 
-## Языки мира:(Русский)(Английский)(Таджикский). -->
-
 ### :sunglasses: Мои навыки: 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Веб-разработчика)
 
