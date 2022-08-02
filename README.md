@@ -56,7 +56,7 @@
 
 ![GitHub Snake Light](./images/new/asd.svg#gh-light-mode-only)
 <div>
-<img src="./images/new/asd.svg" title="Bootstrap" alt="Bootstrap" />
+<img src="./images/new/asd.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40" />
 </div>
 
 
