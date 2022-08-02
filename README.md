@@ -60,4 +60,4 @@
 [![codewars](https://www.codewars.com/users/Proovide/badges/large)](https://www.codewars.com/users/Proovide)
 
 <!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=MMII0220)] -->
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=MMII0220&theme=react-dark)](https://github.com/MMII0220/github-readme-activity-graph)
