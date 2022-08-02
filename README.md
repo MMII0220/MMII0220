@@ -7,7 +7,7 @@
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/mail/-kakbar-blue?style=flat&logo=mail&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=mail&logoColor=white)](your-linkedin-url)
 
 
 ## Языки мира:(Русский)(Английский)(Таджикский).
