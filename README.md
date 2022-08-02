@@ -43,5 +43,5 @@
 
 ### Мои проекты:
 
-Адаптивный сайт "GoGo" или "Mogo": <a href="https://mmii0220.github.io/GoGo/">GoGo</a>
+Адаптивный сайт "GoGo" или "Mogo": <a href="https://mmii0220.github.io/GoGo/">GoGo</a><br/>
 Адаптивный сайт "Booco" или "Booco": <a href="https://mmii0220.github.io/orderKWORK/">OrderKWORK</a>
