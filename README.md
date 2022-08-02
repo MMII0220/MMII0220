@@ -1,16 +1,16 @@
 
 ## Абдуллоев Мухаммад, 19 лет. Таджикистана город Душанбе. 
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: Front-end разработчик.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Огромное желание развиваться!
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: В свое свободное время, читаю манги.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-abum202@mai.ru-blue?style=flat&logo=mail&logoColor=white)](your-linkedin-url)
+- :mailbox:Лучшая связь: [![Linkedin Badge](https://img.shields.io/badge/-abum202@mai.ru-blue?style=flat&logo=mail&logoColor=white)](your-mail-url)
 
-
-## Языки мира:(Русский)(Английский)(Таджикский).
+<!-- 
+## Языки мира:(Русский)(Английский)(Таджикский). -->
 
 ### Мои навыки:
 
