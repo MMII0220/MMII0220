@@ -54,7 +54,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MMII0220&theme=algolia)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MMII0220&theme=algolia) -->
 
-![GitHub Snake dark](./images/new/github-user-contribution.svg#gh-dark-mode-only)
+![GitHub Snake dark](./images/new/asd.svg#gh-dark-mode-only)
 <img src="./images/new/asd.svg" title="Bootstrap" alt="Bootstrap" />
 
 ### :scroll: Languages :
