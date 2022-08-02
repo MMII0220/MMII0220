@@ -53,10 +53,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![codewars](https://www.codewars.com/users/Proovide/badges/large)](https://www.codewars.com/users/Proovide)
+
 
 
 ### :muscle: Активность:
+[![codewars](https://www.codewars.com/users/Proovide/badges/large)](https://www.codewars.com/users/Proovide)
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=MMII0220)]
 
