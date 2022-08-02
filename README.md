@@ -15,7 +15,7 @@
 ### Мои навыки:
 
 <div>
-    <img src="./images/new/html_original_wordmark_logo_icon_146478.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+    <img src="./images/new/html_original_wordmark_logo_icon_146478.svg" title="Java" alt="Java" width="40" height="40"/>
 </div>
 
 
