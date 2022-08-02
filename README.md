@@ -28,7 +28,7 @@
     <img src="./images/new/github_git_hub_logo_icon_132878.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
     <img src="./images/new/gitlab_original_logo_icon_146503.svg" title="GitLab" alt="GitLab" width="40" height="40"/>
 </div>
-<br/>
+<br/><br/>
 
 [![codewars](https://www.codewars.com/users/Proovide/badges/large)](https://www.codewars.com/users/Proovide)
 
