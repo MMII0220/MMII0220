@@ -1,5 +1,3 @@
-
-
 ## <h1 align="center">Мага, 20 лет.:man_technologist:</h1>
 
 - :telescope: Front-end разработчик.
@@ -31,8 +29,6 @@
     <img src="./images/new/gitlab_original_logo_icon_146503.svg" title="GitLab" alt="GitLab" width="40" height="40"/>
 </div>
 
-
-
 <!-- (https://git.io/typing-svg) -->
 
 <!-- 
@@ -46,14 +42,12 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-df6e08?style=for-the-badge&logo=GitHub&logoColor=000000)
 ![Blender](https://img.shields.io/badge/-Blender-df6e08?style=for-the-badge&logo=Blender&logoColor=fcbf28) -->
 
-### Мои проекты:
+### :briefcase: Мои проекты:
 
 Адаптивный сайт "GoGo" или "Mogo": <a href="https://mmii0220.github.io/GoGo/">GoGo</a><br/>
 Адаптивный сайт "Booco" или "Booco": <a href="https://mmii0220.github.io/orderKWORK/">OrderKWORK</a>
 
-### :fire: My Stats :
-
-### :satisfied: Статистика серии :
+### :satisfied: Статистика :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MMII0220)
 
@@ -61,3 +55,7 @@
 [![codewars](https://www.codewars.com/users/Proovide/badges/large)](https://www.codewars.com/users/Proovide)
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=MMII0220&theme=react-dark)]
+
+### :scroll: Languages :
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MMII0220)
