@@ -53,7 +53,7 @@
 
 ### :fire: My Stats :
 
-### :fire: Streak Stats :
+### :satisfied: Статистика серии :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MMII0220)
 
