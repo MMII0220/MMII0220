@@ -49,7 +49,7 @@
 
 ### :satisfied: Статистика :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MMII0220)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MMII0220&theme=dark)
 
 ### :scroll: Languages :
 
