@@ -51,11 +51,11 @@
 
 <br/><br/>
 
-### :scroll: Languages :
+<!--### :scroll: Languages :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MMII0220&theme=algolia)
 
-<br/><br/>
+<br/><br/>-->
 
 ### :muscle: Активность:
 
