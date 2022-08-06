@@ -59,5 +59,5 @@
 
 ### :muscle: Активность:
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=MMII0220&theme=react-dark)
+![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=MMII0220&theme=react-dark)
 
