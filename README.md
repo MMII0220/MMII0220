@@ -43,18 +43,23 @@
 Сайт "<b>GoGo</b>" или "<b>Mogo</b>": <a href="https://mmii0220.github.io/GoGo/">GoGo</a><br/>
 Адаптивно, кроссбраузерная Вестка
 <br><br/>
+
 Сайт "<b>Booco</b>": <a href="https://mmii0220.github.io/orderKWORK/">OrderKWORK</a><br>
 Адаптивно, кроссбраузерная Вестка. Написанная на чистом JS.<br/>
-<br/><br/>
+<br/>
+
 Сайт "<b>Заказ Еды</b>": <a href="https://mmii0220.github.io/food__dist/">Food-dist</a><br/>
 Написанная на чистом JS.
 <br/><br/>
+
 Сайт "<b>Изображение Кошек</b>": <a href="https://mmii0220.github.io/Cat-show/">Cat-show</a><br/>
 Адаптивно, кроссбраузерная Вестка. Написанная на чистом JS, с localstorage.
 <br/><br/>
+
 Сайт "<b>Калькулятор</b>": <a href="https://mmii0220.github.io/Calculator/">Calculator</a><br/>
 Адаптивно, кроссбраузерная Вестка. Написанная на чистом JS.
 <br/><br/>
+
 Сайт "<b>План выполнения</b>": <a href="https://mmii0220.github.io/Grocery-List/">To-Do List</a><br/>
 Адаптивно, кроссбраузерная Вестка. Написанная на чистом JS.
 
