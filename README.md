@@ -48,7 +48,7 @@
 Сайт "<b>Заказ Еды</b>": <a href="https://mmii0220.github.io/food__dist/">Food-dist</a><br/>
 Написанная на чистом JS.
 <br/><br/>
-Сайт "<b>Изображение Кошек</b>": <a href="https://mmii0220.github.io/Cat-show/">Cat-show</a><br/>
+Сайт "<b>Изображение Кошек</b>": <a href="https://mmii0220.github.io/Cat-show/">Cat-show</a><br/><br/>
 Адаптивно, кроссбраузерная Вестка. Написанная на чистом JS, с localstorage.
 <br/><br/>
 Сайт "<b>Калькулятор</b>": <a href="https://mmii0220.github.io/Calculator/">Calculator</a><br/>
