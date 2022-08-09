@@ -20,9 +20,12 @@
     <img src="./images/new/css_original_wordmark_logo_icon_146576.svg" title="CSS3" alt="CSS3" width="50" height="50"/>
     <img src="./images/new/javascript_original_logo_icon_146455.svg" title="Javascript" alt="Javascript" width="50" height="50"/>
     <img src="./images/new/react_original_wordmark_logo_icon_146375.svg" title="React" alt="React" width="50" height="50"/>
-    <img src="./images/new/typescript_original_logo_icon_146317.svg" title="Typescript" alt="Typescript" width="50" height="50"/>
+    <img src="./images/skills/1280px-Babel_Logo.svg.png" title="React" alt="React" width="50" height="50"/>
+    <img src="./images/skills/webpack_plain_logo_icon_146297.png" title="React" alt="React" width="50" height="50"/>
+    <!-- <img src="./images/new/typescript_original_logo_icon_146317.svg" title="Typescript" alt="Typescript" width="50" height="50"/> -->
     <img src="./images/new/c_original_logo_icon_146611.svg" title="C" alt="C" width="50" height="50"/>
     <img src="./images/new/bootstrap_plain_logo_icon_146619.svg" title="Bootstrap" alt="Bootstrap" width="50" height="50"/>
+    <img src="./images/skills/Photoshop_CC_icon.png" title="Bootstrap" alt="Bootstrap" width="50" height="50"/>
     <img src="./images/new/sass_original_logo_icon_146350.svg" title="SASS" alt="SASS" width="50" height="50"/>
     <img src="./images/new/file_type_scss_icon_130177.svg" title="SCSS" alt="SCSS" width="50" height="50"/>
     <img src="./images/new/file_type_git_icon_130581.svg" title="Git" alt="Git" width="50" height="50"/>
@@ -37,8 +40,12 @@
 
 ### :briefcase: Мои проекты:
 
-Адаптивный сайт "GoGo" или "Mogo": <a href="https://mmii0220.github.io/GoGo/">GoGo</a><br/>
-Адаптивный сайт "Booco" или "Booco": <a href="https://mmii0220.github.io/orderKWORK/">OrderKWORK</a>
+Сайт "<b>GoGo</b>" или "<b>Mogo</b>": <a href="https://mmii0220.github.io/GoGo/">GoGo</a><br/>
+Сайт "<b>Booco</b>": <a href="https://mmii0220.github.io/orderKWORK/">OrderKWORK</a><br>
+Сайт "<b>Заказ Еды</b>": <a href="https://mmii0220.github.io/food__dist/">Food-dist</a><br/>
+Сайт "<b>Изображение Кошек</b>": <a href="https://mmii0220.github.io/Cat-show/">Cat-show</a><br/>
+Сайт "<b>Калькулятор</b>": <a href="https://mmii0220.github.io/Calculator/">Calculator</a><br/>
+Сайт "<b>План выполнения</b>": <a href="https://mmii0220.github.io/Grocery-List/">To-Do List</a><br/>
 
 <br/><br/>
 
