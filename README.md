@@ -48,21 +48,20 @@
 Адаптивно, кроссбраузерная Вестка. Написанная на чистом JS.<br/>
 <br/>
 
+Сайт "<b>Калькулятор</b>": <a href="https://github.com/MMII0220/weather__app">Weather App</a><br/>
+Адаптивно, кроссбраузерная Вестка. Написанная на чистом React с помошью API <a href="https://openweathermap.org/api">OpenWeatherMap</a>. Данный сайт показывает температуру, скорость воздуха и также влажность указанного Города.
+<br/><br/>
+
+Сайт "<b>Список Задач</b>": <a href="https://github.com/MMII0220/todo_List_NEW">To-Do List</a><br/>
+Адаптивно, кроссбраузерная Вестка. Написанная на React. Данная программа имеет возможность добавления, изменения, ставить открытость и закрытость а также удаления записи.
+<br/><br/>
+
 Сайт "<b>Заказ Еды</b>": <a href="https://mmii0220.github.io/food__dist/">Food-dist</a><br/>
 Написанная на чистом JS.
 <br/><br/>
 
 Сайт "<b>Изображение Кошек</b>": <a href="https://mmii0220.github.io/Cat-show/">Cat-show</a><br/>
 Адаптивно, кроссбраузерная Вестка. Написанная на чистом JS, с localstorage.
-<br/><br/>
-
-Сайт "<b>Калькулятор</b>": <a href="https://mmii0220.github.io/Calculator/">Calculator</a><br/>
-Адаптивно, кроссбраузерная Вестка. Написанная на чистом JS.
-<br/><br/>
-
-Сайт "<b>План выполнения</b>": <a href="https://mmii0220.github.io/Grocery-List/">To-Do List</a><br/>
-Адаптивно, кроссбраузерная Вестка. Написанная на чистом JS.
-
 <br/><br/>
 
 ### :satisfied: Статистика :
