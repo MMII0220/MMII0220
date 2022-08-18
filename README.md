@@ -45,7 +45,7 @@
 <br><br/>
 
 Сайт "<b>Booco</b>": <a href="https://mmii0220.github.io/orderKWORK/">OrderKWORK</a><br>
-Адаптивно, кроссбраузерная Вестка. Написанная на чистом JS.<br/>
+Адаптивная Вестка. Написанная на чистом JS.<br/>
 <br/>
 
 Сайт "<b>Калькулятор</b>": <a href="https://github.com/MMII0220/weather__app">Weather App</a><br/>
