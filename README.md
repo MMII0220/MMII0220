@@ -48,7 +48,7 @@
 Адаптивная Вестка. Написанная на чистом JS.<br/>
 <br/>
 
-Сайт "<b>Калькулятор</b>": <a href="https://github.com/MMII0220/weather__app">Weather App</a><br/>
+Сайт "<b>Погода</b>": <a href="https://github.com/MMII0220/weather__app">Weather App</a><br/>
 Адаптивно, кроссбраузерная Вестка. Написанная на чистом React с помошью API <a href="https://openweathermap.org/api">OpenWeatherMap</a>. Данный сайт показывает температуру, скорость воздуха и также влажность указанного Города.
 <br/><br/>
 
