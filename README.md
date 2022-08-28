@@ -9,7 +9,7 @@
 - :mailbox:Лучшая связь: [![Telegram Badge](https://img.shields.io/badge/-@abum20209-blue?style=flat&logo=telegram&logoColor=white)](https://tele.click/@abum20209)
 
 <a href="https://platane.github.io/snk">
-  <img height="300px" src="./images/new/github-user-contribution.svg" ></img>
+  <img height="300px" src="./images/new/new_snk1.svg" ></img>
 </a>
 
 ### :sunglasses: Мои навыки: 
