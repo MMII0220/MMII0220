@@ -40,6 +40,10 @@
 
 ### :briefcase: Мои проекты:
 
+Сайт "<b>Заказ Еды</b>": <a href="https://github.com/MMII0220/ping-pong-JS#ping-pong-js">Food-dist</a><br/>
+Написанная на чистом JS.
+<br/><br/>
+
 Сайт "<b>GoGo</b>" или "<b>Mogo</b>": <a href="https://mmii0220.github.io/GoGo/">GoGo</a><br/>
 Адаптивно, кроссбраузерная Вестка
 <br><br/>
@@ -54,10 +58,6 @@
 
 Сайт "<b>Список Задач</b>": <a href="https://github.com/MMII0220/todo_List_NEW">To-Do List</a><br/>
 Адаптивно, кроссбраузерная Вестка. Написанная на React. Данная программа имеет возможность добавления, изменения, ставить открытость и закрытость а также удаления записи.
-<br/><br/>
-
-Сайт "<b>Заказ Еды</b>": <a href="https://mmii0220.github.io/food__dist/">Food-dist</a><br/>
-Написанная на чистом JS.
 <br/><br/>
 
 Сайт "<b>Изображение Кошек</b>": <a href="https://mmii0220.github.io/Cat-show/">Cat-show</a><br/>
