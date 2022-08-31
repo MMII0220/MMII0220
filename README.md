@@ -41,7 +41,7 @@
 ### :briefcase: Мои проекты:
 
 Сайт "<b>Игра Пинг-понг</b>": <a href="https://github.com/MMII0220/ping-pong-JS#ping-pong-js">Ping-pong</a><br/>
-Написанная на чистом JS.
+Написанная на чистом JS. Использууемы интсрументы: eslint, jshint. RequestAnimationFrame. Написан на современном JS. Предусмотрена вся логика игры.
 <br/><br/>
 
 Сайт "<b>GoGo</b>" или "<b>Mogo</b>": <a href="https://mmii0220.github.io/GoGo/">GoGo</a><br/>
