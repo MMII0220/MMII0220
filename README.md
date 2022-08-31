@@ -40,7 +40,7 @@
 
 ### :briefcase: Мои проекты:
 
-Сайт "<b>Заказ Еды</b>": <a href="https://github.com/MMII0220/ping-pong-JS#ping-pong-js">Food-dist</a><br/>
+Сайт "<b>Игра Пинг-понг</b>": <a href="https://github.com/MMII0220/ping-pong-JS#ping-pong-js">Ping-pong</a><br/>
 Написанная на чистом JS.
 <br/><br/>
 
