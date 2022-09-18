@@ -34,7 +34,7 @@
 </div>
 <br/><br/>
 
-[![codewars](https://www.codewars.com/users/Proovide/badges/large)](https://www.codewars.com/users/MMII0220)
+[![codewars](https://www.codewars.com/users/MMII0220/badges/large)](https://www.codewars.com/users/MMII0220)
 
 <br/><br/>
 
