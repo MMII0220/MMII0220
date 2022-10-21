@@ -34,7 +34,7 @@
 </div>
 <br/><br/>
 
-[![codewars](https://www.codewars.com/users/MMII0220/badges/large)](https://www.codewars.com/users/rsschool_b5f1bd5fe1d65f88)
+[![codewars](https://www.codewars.com/users/rsschool_b5f1bd5fe1d65f88/badges/large)](https://www.codewars.com/users/rsschool_b5f1bd5fe1d65f88)
 
 <br/><br/>
 
