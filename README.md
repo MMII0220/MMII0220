@@ -12,8 +12,9 @@
   <img height="300px" src="./images/new/new_snk1.svg" ></img>
 </a>
 
-### :sunglasses: Мои навыки: 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Веб-разработчика)
+### :sunglasses: Мои навыки:
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Front-end)
 
 <div>
     <img src="./images/new/html_original_wordmark_logo_icon_146478.svg" title="HTML5" alt="HTML5" width="50" height="50"/>
@@ -37,6 +38,24 @@
 [![codewars](https://www.codewars.com/users/rsschool_b5f1bd5fe1d65f88/badges/large)](https://www.codewars.com/users/rsschool_b5f1bd5fe1d65f88)
 
 <br/><br/>
+
+#### Мой стек технологий и пройденный путь на данный момент:
+
+:star2: HTML5 - верстка (адаптивная и кроссбраузерная) - уверенный верстальщик PixelPerfect <br>
+:star2: CSS3 - стилизация элементов+анимация - работаю по методологии БЭМ, использую CSS Grid и Flexbox <br>
+:star2: SASS/SCSS - использую эти препроцессор для более удобной работы с CSS <br>
+:star2: JS ES5/ES6+ - практикую ежедневно <br>
+
+#### React:
+
+:star2: FC - работаю в функциональными компонентами <br>
+:star2: TS - работать стараюсь только с ним <br>
+:star2: Styled-component - стилизация компонентов (но также могу работать с обычным CSS и ClassName :grin:) <br>
+:star2: Hooks - пока что на практике приходилось использовать useState, useEffect, useCallback, useMemo, useRouter <br>
+:star2: React-hook-form - валидация форм <br>
+:star2: Axios+async/await - для получения ответов от сервера, их трансформация и автоматическая конвертация в JSON <br>
+
+##### В проектах люблю порядок и стараюсь писать "легко читаемый" код
 
 ### :briefcase: Мои проекты:
 
@@ -82,4 +101,3 @@
 ### :muscle: Активность:
 
 ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=MMII0220&theme=react-dark)
-
