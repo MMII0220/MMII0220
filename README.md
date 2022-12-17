@@ -1,6 +1,6 @@
 ## <h1 align="center">Мухаммад, 20 лет.:man_technologist:</h1>
 
-- :telescope: Front-end разработчик.
+- :telescope: Full-stack разработчик.
 
 - :seedling: Огромное желание учиться!
 
