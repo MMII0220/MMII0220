@@ -59,7 +59,7 @@
 
 ### :briefcase: Мои проекты:
 
-Сайт "<b>Игра Пинг-понг</b>": <a href="https://mmii0220.github.io/pingPong-JS/">Ping-pong</a><br/>
+Сайт "<b>Игра Пинг-понг(работает только в десктовных приложениях)</b>": <a href="https://mmii0220.github.io/pingPong-JS/">Ping-pong</a><br/>
 Написанная на чистом JS. Использууемы интсрументы: eslint, jshint. RequestAnimationFrame. Написан на современном JS. Предусмотрена вся логика игры.
 <br/><br/>
 
