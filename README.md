@@ -1,4 +1,4 @@
-## <h1 align="center">Мухаммад, 20 лет.:man_technologist:</h1>
+## <h1 align="center">Мухаммад, 20 лет.:smiley:</h1>
 
 - :telescope: Full-stack разработчик.
 
