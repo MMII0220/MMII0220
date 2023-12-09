@@ -100,4 +100,4 @@
 
 ### :muscle: Активность:
 
-![](https://activity-graph.herokuapp.com/graph?username=MMII0220&theme=react-dark)
+![Activity graph](https://activity-graph.herokuapp.com/graph?username=MMII0220&theme=react-dark)
