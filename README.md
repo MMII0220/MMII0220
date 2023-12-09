@@ -5,7 +5,7 @@
 - :seedling: Огромное желание учиться!
 
 - :zap: В свое свободное время, смотрю аниме или гуляю с друзьями.
-:zap:
+  
 -  Лучшая связь: [![Telegram Badge](https://img.shields.io/badge/-@abum20209-blue?style=flat&logo=telegram&logoColor=white)](https://tele.click/@abum20209)
 
 <a href="https://platane.github.io/snk">
