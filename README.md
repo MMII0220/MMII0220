@@ -32,7 +32,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MMII0220&theme=algolia)
 
 <br/><br/>-->
-
-### :muscle: Активность:
-
-![Activity graph](https://activity-graph.herokuapp.com/graph?username=MMII0220&theme=react-dark)
