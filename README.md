@@ -19,7 +19,7 @@
 <br/><br/>
 
 ### :satisfied: Статистика :
-[![GitHub Streak](https://streak-stats.demolab.com)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MMII0220&theme=tokyonight-duo)](https://git.io/streak-stats)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MMII0220&theme=algolia)
 ![](https://github-readme-stats.vercel.app/api?username=MMII0220&show_icons=true&theme=algolia)
