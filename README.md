@@ -16,8 +16,6 @@
 
 [![codewars](https://www.codewars.com/users/rsschool_b5f1bd5fe1d65f88/badges/large)](https://www.codewars.com/users/rsschool_b5f1bd5fe1d65f88)
 
-<br/><br/>
-
 ### :satisfied: Статистика :
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MMII0220&theme=algolia)](https://git.io/streak-stats)
