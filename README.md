@@ -27,7 +27,7 @@
 </div>
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=MMII0220&theme=algolia" />
+    <img src="[https://streak-stats.demolab.com?user=MMII0220&theme=algolia](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MMII0220&theme=solarized_dark)" />
   </a>
 </div>
 <br/><br/>
