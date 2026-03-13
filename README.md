@@ -23,7 +23,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=MMII0220&theme=algolia)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api?username=MMII0220&show_icons=true&theme=algolia)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MMII0220&theme=solarized_dark)
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MMII0220&theme=solarized_dark" />
 </p>
