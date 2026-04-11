@@ -16,9 +16,8 @@
 
 ### :satisfied: Статистика :
 
-<div align="center">
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=MMII0220&theme=algolia)](https://git.io/streak-stats)
-  </div>
 ![](https://github-readme-stats.vercel.app/api?username=MMII0220&show_icons=true&theme=algolia)
 
 
